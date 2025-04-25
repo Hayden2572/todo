@@ -1,0 +1,12 @@
+{
+    "port":"8080",
+    "address":"localhost",
+    "database":{
+        "db_port":"5432",
+        "username":"postgres",
+        "password":"admin", 
+        "host_name":"localhost",
+        "db_name":"todo",
+        "sslmode":"disabled"
+    }
+}
